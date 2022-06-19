@@ -1,0 +1,4 @@
++++
+title = "photography"
+menu = "main"
++++
