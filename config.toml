@@ -1,6 +1,6 @@
 baseURL = 'https://taiyr.me'
 
-theme = 'hugo-bearblog'
+theme = ['hugo-bearblog', 'hugo-shortcode-gallery']
 
 title = "👨🏽‍💻 taiyr"
 author = "Taiyr Begeyev"
