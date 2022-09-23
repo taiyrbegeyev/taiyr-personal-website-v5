@@ -1,10 +1,10 @@
 ### Hi, I'm Taiyr Begeyev
 
-#### maker of things and aspiring photographer
+#### maker of things and photographer
 
 I'm a 21-year-old Software Engineer and a Code Enthusiast. I'm currently based in Manchester, UK 🇬🇧
 
-During the day, I work on building a seamless customer-centric e-commerce mobile platform at [THG](https://www.thg.com). At night, I lead a team of Front-end Engineers at [Integerly](https://www.linkedin.com/company/integerly/) working on a playground for mathematicians.
+During the day, I work on building a seamless customer-centric e-commerce mobile platform at [THG](https://www.thg.com).
 
 I'm someone with deep sensitivity to the beauty of art or nature. I love observing the world around me. Maybe that's partially the reason why I started pursuing [photography](/photography).
 
