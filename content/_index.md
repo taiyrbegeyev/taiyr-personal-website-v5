@@ -2,7 +2,7 @@
 
 #### maker of things and photographer
 
-I'm a 21-year-old Software Engineer and a Code Enthusiast. I'm currently based in Manchester, UK 🇬🇧
+I'm a 22-year-old Software Engineer and a Code Enthusiast. I'm currently based in Manchester, UK 🇬🇧
 
 During the day, I work on building a seamless customer-centric e-commerce mobile platform at [THG](https://www.thg.com).
 

@@ -4,7 +4,7 @@ theme = ['hugo-bearblog', 'hugo-shortcode-gallery']
 
 title = "👨🏽‍💻 taiyr"
 author = "Taiyr Begeyev"
-copyright = "Copyright © 2022, Taiyr Begeyev."
+copyright = "Copyright © 2023, Taiyr Begeyev."
 languageCode = "en-us"
 
 enableRobotsTXT = true
