@@ -4,7 +4,7 @@
 
 I'm a 22-year-old Software Engineer and a Code Enthusiast. I'm currently based in Manchester, UK 🇬🇧
 
-During the day, I work on building a seamless customer-centric e-commerce mobile platform at [THG](https://www.thg.com).
+During the day, as a Backend Software Engineer, I contribute to the development and scaling of [Zuora](https://www.zuora.com)'s subscription platform, powering companies to thrive in the Subscription Economy.
 
 I'm someone with deep sensitivity to the beauty of art or nature. I love observing the world around me. Maybe that's partially the reason why I started pursuing [photography](/photography).
 
