@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  },
+  "scripts": {
+    "predeploy": "hugo",
+    "deploy": "gh-pages -d public"
+  }
+}
