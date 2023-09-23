@@ -1,4 +1,0 @@
-+++
-title = "photography"
-menu = "main"
-+++
