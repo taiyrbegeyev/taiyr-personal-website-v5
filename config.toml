@@ -2,7 +2,7 @@ baseURL = 'https://taiyr.me'
 
 theme = ['hugo-bearblog', 'hugo-shortcode-gallery']
 
-title = "👨🏽‍💻 taiyr"
+title = "taiyr"
 author = "Taiyr Begeyev"
 copyright = "Copyright © 2023, Taiyr Begeyev."
 languageCode = "en-us"
@@ -44,3 +44,5 @@ ignoreErrors = ["error-disable-taxonomy"]
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   # dateFormat = "2006-01-02"
+
+  headerTitle = "👨🏻‍💻 taiyr"
