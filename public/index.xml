@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>taiyr</title>
-    <link>https://taiyr.me/</link>
+    <link>https://taiyr.com/</link>
     <description>Recent content on taiyr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2023, Taiyr Begeyev.</copyright>
-    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://taiyr.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://taiyr.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Almaty on Film</title>
-      <link>https://taiyr.me/photography/2022-08-almaty/</link>
+      <link>https://taiyr.com/photography/2022-08-almaty/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://taiyr.me/photography/2022-08-almaty/</guid>
+      <guid>https://taiyr.com/photography/2022-08-almaty/</guid>
       <description>Almaty on Film </description>
     </item>
     
     <item>
       <title>London Adventures</title>
-      <link>https://taiyr.me/photography/2022-04-london/</link>
+      <link>https://taiyr.com/photography/2022-04-london/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://taiyr.me/photography/2022-04-london/</guid>
+      <guid>https://taiyr.com/photography/2022-04-london/</guid>
       <description>London Adventures </description>
     </item>
     
     <item>
       <title>The Art of Computer Programming</title>
-      <link>https://taiyr.me/the-art-of-computer-programming/</link>
+      <link>https://taiyr.com/the-art-of-computer-programming/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://taiyr.me/the-art-of-computer-programming/</guid>
+      <guid>https://taiyr.com/the-art-of-computer-programming/</guid>
       <description>Computer Science is a theory, yet Computer Programming — an art. The elegantly written code, like any literature, is inspirational, and adopts aesthetics to achieve high maintainability. Paul Graham — one of my favourite programmers and computer scientists, who studied painting at the beginning of his career path — is one such well-known proponent of this belief. Paul outlined the many parallels between painters and hackers programmers in one of his essays, Hackers and Painters: both build something from the ground up, both improve their masterpiece through gradual refinements, and both produce works intended for a human audience.</description>
     </item>
     
     <item>
       <title>about me</title>
-      <link>https://taiyr.me/about_me/</link>
+      <link>https://taiyr.com/about_me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://taiyr.me/about_me/</guid>
+      <guid>https://taiyr.com/about_me/</guid>
       <description>Ever since I was little, I&amp;rsquo;ve always been drawn to technology. Something that started as simply watching Youtube tech review videos evolved into computer programming. I can&amp;rsquo;t fully grasp what fueled my interest, but here is the picture of me pretending to know what I&amp;rsquo;m doing.
 This young boy didn&amp;rsquo;t even suspect he&amp;rsquo;d be sitting in the same pose 17 years later. The more things change, the more they stay the same.</description>
     </item>

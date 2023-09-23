@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://taiyr.me/sitemap.xml
+Sitemap: https://taiyr.com/sitemap.xml

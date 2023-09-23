@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on taiyr</title>
-    <link>https://taiyr.me/blog/</link>
+    <link>https://taiyr.com/blog/</link>
     <description>Recent content in Blogs on taiyr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2023, Taiyr Begeyev.</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://taiyr.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://taiyr.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Art of Computer Programming</title>
-      <link>https://taiyr.me/the-art-of-computer-programming/</link>
+      <link>https://taiyr.com/the-art-of-computer-programming/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://taiyr.me/the-art-of-computer-programming/</guid>
+      <guid>https://taiyr.com/the-art-of-computer-programming/</guid>
       <description>Computer Science is a theory, yet Computer Programming — an art. The elegantly written code, like any literature, is inspirational, and adopts aesthetics to achieve high maintainability. Paul Graham — one of my favourite programmers and computer scientists, who studied painting at the beginning of his career path — is one such well-known proponent of this belief. Paul outlined the many parallels between painters and hackers programmers in one of his essays, Hackers and Painters: both build something from the ground up, both improve their masterpiece through gradual refinements, and both produce works intended for a human audience.</description>
     </item>
     
