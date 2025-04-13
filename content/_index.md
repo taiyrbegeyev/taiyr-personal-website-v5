@@ -2,9 +2,9 @@
 
 #### maker of things and photographer
 
-I'm a 24-year-old Software Engineer and a Code Enthusiast. I'm currently based in Manchester, UK 🇬🇧
+I'm a 24-year-old Software Engineer. I'm currently based in Manchester, UK 🇬🇧
 
-During the day, as a Backend Software Engineer, I contribute to the development and scaling of [Zuora](https://www.zuora.com)'s Zephr platform, powering companies to thrive in the Subscription Economy.
+During the day, as a Backend Software Engineer, I contribute to the development and scaling of [Zuora](https://www.zuora.com)'s Commerce platform, powering companies to thrive in the Subscription Economy.
 
 I'm someone with deep sensitivity to the beauty of art or nature. I love observing the world around me. Maybe that's partially the reason why I started pursuing [photography](/photography).
 
