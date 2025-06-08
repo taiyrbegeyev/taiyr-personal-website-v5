@@ -8,6 +8,4 @@ During the day, as a Backend Software Engineer, I contribute to the development 
 
 I'm someone with deep sensitivity to the beauty of art or nature. I love observing the world around me. Maybe that's partially the reason why I started pursuing [photography](/photography).
 
-I also [write](/blog). Mostly about tech and life.
-
 Get in touch via [email](mailto:taiyrbegeyev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/taiyrbegeyev/).
