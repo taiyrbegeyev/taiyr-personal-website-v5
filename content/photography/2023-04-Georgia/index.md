@@ -1,10 +1,10 @@
 ---
-title: Prague on Film
+title: Georgia 🇬🇪 on Film
 layout: photography
-date: 2022-06-09
-banner: ./images/R1-08195-0006.JPG
+date: 2023-04-13
+banner: ./images/000023630009.jpg
 ---
 
-### Prague on Film
+### Georgia on Film
 
 {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview="true" loadJQuery=true >}}
