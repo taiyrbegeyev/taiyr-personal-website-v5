@@ -2,7 +2,7 @@
 
 #### maker of things and photographer
 
-I'm a 24-year-old Software Engineer. I'm currently based in London, UK 🇬🇧
+I'm a 25-year-old Software Engineer. I'm currently based in London, UK 🇬🇧
 
 During the day, as a Backend Software Engineer, I contribute to the development and scaling of [Zuora](https://www.zuora.com)'s Commerce platform, powering companies to thrive in the Subscription Economy.
 
