@@ -7,7 +7,7 @@ Ever since I was little, I've always been drawn to technology. Something that st
 
 ![kid taiyr](/taiyr_kid.jpg)
 
-This young boy didn't even suspect he'd be sitting in the same pose 19 years later. The more things change, the more they stay the same. One day I'll recreate this picture, but all in good time.
+This young boy didn't even suspect he'd be sitting in the same pose {{< years-since 2003 >}} years later. The more things change, the more they stay the same. One day I'll recreate this picture, but all in good time.
 
 ### Work Experience
 

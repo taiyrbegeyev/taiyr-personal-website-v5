@@ -1,0 +1,8 @@
+{{- $birthYear := 2001 -}}
+{{- $birthMonth := 2 -}}
+{{- $birthDay := 8 -}}
+{{- $age := sub now.Year $birthYear -}}
+{{- if or (lt (int (now.Format "1")) $birthMonth) (and (eq (int (now.Format "1")) $birthMonth) (lt (int (now.Format "2")) $birthDay)) -}}
+{{- $age = sub $age 1 -}}
+{{- end -}}
+{{- $age -}}
