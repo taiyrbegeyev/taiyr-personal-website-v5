@@ -11,9 +11,19 @@ This young boy didn't even suspect he'd be sitting in the same pose {{< years-si
 
 ### Work Experience
 
+#### Software Engineer at Booking.com
+
+*June 2026 -- Present (London, UK)*
+
 #### Backend Software Engineer at Zuora
 
-*June 2023 -- Present (London, UK)*
+*June 2023 -- June 2026 (London, UK)*
+
+* Led critical architecture and implementation of Zuora’s next-generation Product Catalog platform, focusing on microservices design and post-acquisition integration between Zephr and Zuora systems. Part of on-call rotation supporting production systems.
+
+* Architected Business Context Service and Entitlement Management System as foundational microservices for the Product Catalog, enabling dynamic pricing and conditional catalog visibility across multiple channels.
+
+* Led technical integration between Zephr platform and Zuora Catalog following acquisition, serving as key technical contributor for platform convergence.
 
 #### Software Engineer at THG
 
