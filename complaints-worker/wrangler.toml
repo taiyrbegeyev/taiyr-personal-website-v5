@@ -1,0 +1,12 @@
+name = "taiyr-complaints"
+main = "src/index.js"
+compatibility_date = "2026-10-19"
+workers_dev = false
+preview_urls = false
+keep_vars = true
+vars = {}
+routes = [
+  { pattern = "taiyr.com/complaints*", zone_name = "taiyr.com" }
+]
+
+# Dashboard-configured variables are preserved on deploy.
